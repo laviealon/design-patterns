@@ -1,2 +1,2 @@
 # design-patterns
-An implementation of several design patterns applied to practical situations.
+An implementation of several design patterns applied to practical situations
